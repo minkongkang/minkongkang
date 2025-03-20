@@ -1,5 +1,5 @@
 ## ✨ Hi there 👋 ✨ 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20MINAH'sGitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=400&section=header&text=Welcome-nl-mina's%20GitHub&fontSize=80)
 <!--
 **minkongkang/minkongkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
